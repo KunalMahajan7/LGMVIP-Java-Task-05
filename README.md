@@ -1,1 +1,1 @@
-# LGMVIP-Java-Task-05
+# Text Editor Project
